@@ -1,3 +1,5 @@
+#A simple program to count the most common letters in a txt file
+
 import string
 fname = input("Insert file name: ")
 fhand = open(fname)
